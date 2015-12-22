@@ -1,2 +1,3 @@
-# Regression-Analysis-Refresher-Kit
-Repo to help the students of STAT3001 with their end of semester project
+#Regression-Analysis-Refresher-Kit
+
+The purpose of this repository is to help the students of Regression Anaysis (STAT3001) with their end of semester project. I've taken advantage of the wiki feature, as a learning tool, and as such most of your time should be spent there. The wiki is not exhaustive; it will only aid you in remembering concepts and/or the syntax of R that you may have forgotten during the semester. If you encounter any difficulties and/or have any suggestions about any topics I could add to the wiki feel free to tell me, whether by email or in person. Finally, I would like to say that the wiki can only help you so much and no more, your project requires a fair amount of analysis and synthesis therefore much of your focus should be on problem solving. Oh, also, the code in the repo are just random snippets I used during the semester that I thought would be useful.  
